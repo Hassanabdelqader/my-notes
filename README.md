@@ -12,7 +12,7 @@
 
  ### Bad system design, App lifetime will be short 😢.
 
-The design of software aims to make developers job as easy as possible so they can focus on what matters. You will create software that will help users and your software will continue to help them for a long time.
+The design of software aims to make developers job as easy as possible so they can focus on what matters. You will create software that will help users and your software will continue to help them for a long time...
 
 
 
